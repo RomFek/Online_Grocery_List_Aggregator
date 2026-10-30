@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.db
+credentials.json
+token.pickle
+.project
+.pydevproject
